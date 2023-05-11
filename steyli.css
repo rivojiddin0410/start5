@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+@media screen and (max-width:400px) {
+      .wrrapper{
+        width: 100%;
+        height: 1100vh;
+        background-color: #000000;
+      }.startx5img{
+        width: 100%;
+        height: 700px;
+        background: url(./Screenshot\ 2023-05-09\ 150106.png) no-repeat center/cover;
+      }.startx5img2{
+        width: 100%;
+        height: 700px;
+        background: url(./Screenshot\ 2023-05-09\ 150711.png) no-repeat center/cover;
+        margin-top: 80px;
+      }.startx5img3{
+        width: 100%;
+        height: 700px;
+        background: url(./Screenshot\ 2023-05-09\ 151008.png) no-repeat center/cover;
+        margin-top: 50px;
+    }
+    .startx5img4{
+        width: 99%;
+        height: 500px;
+        background: url(./Screenshot\ 2023-05-09\ 151628.png) no-repeat center/cover;
+        margin-left: 3px;
+  }
+    .startx5img5{
+        width: 99%;
+        height: 300px;
+        background: url(./Screenshot\ 2023-05-09\ 152029.png) no-repeat center/cover;
+        margin-left: 3px;
+  }
+    .startx5img6{
+        width: 99%;
+        height: 300px;
+        background: url() no-repeat center/cover;
+  }
+  .startx5img__box{
+    width: 99%;
+    height: 280vh;
+    background: url(./list-bg.webp) no-repeat center/cover;
+    margin-top: 100px;
+    border-radius: 20px;
+    margin-left: 2px;
+  }
+  .startx5img__box__child{
+    width: 70%;
+    height: 300px;
+    background: url(./Screenshot\ 2023-05-11\ 220844.png) no-repeat center/cover;
+    margin-top: 30px;
+    margin-left: 50px;
+  }
+  .wrrapper__vip{
+    width: 100%;
+    height: 600px;
+    background: url(./Screenshot\ 2023-05-11\ 221341.png) no-repeat center/cover;
+    margin-top: 100px;
+  }
+  .wrrapper__boy{
+    width: 100%;
+    height: 600px;
+    background: url(./Screenshot\ 2023-05-11\ 221652.png) no-repeat center/cover;
+    margin-top: 100px;
+  }
+  .wrrapper__footer{
+    width: 100%;
+    height: 300px;
+    background: url(./Screenshot\ 2023-05-11\ 221805.png) no-repeat center/cover;
+    margin-top: 30px;
+  }
+}
